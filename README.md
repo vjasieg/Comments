@@ -1,2 +1,2 @@
 # Comments
- expressjs exercise
+ simple react and expressjs experiment
