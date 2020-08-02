@@ -23,7 +23,7 @@ app.use('/comments', commentsRoute);
 
 app.use((req, res, next) => {
     res.json({
-        "api": "works"
+        "api": "works B)"
     });
     res.status(200);
 });
